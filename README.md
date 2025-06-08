@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abhinav Pathak</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **React, Next.js, and Node.js**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfoliomyreact.netlify.app/)
-
-- 💬 Ask me about **JavaScript, Node.js, React, and Next.js**
-
-- 📫 How to reach me: **abhinavpathak9984@gmail.com**
-
-- ⚡ Fun fact: **I love building awesome user interfaces!**
+<p align="center">
+  🌱 Currently learning <strong>React, Next.js, and Node.js</strong><br>
+  👨‍💻 Check out my portfolio at <a href="https://portfoliomyreact.netlify.app/" target="_blank">My Portfolio</a><br>
+  💬 Ask me about <strong>JavaScript, Node.js, React, and Next.js</strong><br>
+  📫 Reach me at <a href="mailto:abhinavpathak9984@gmail.com">abhinavpathak9984@gmail.com</a><br>
+  ⚡ Fun fact: <strong>I love building awesome user interfaces!</strong>
+</p>
 
 ---
 
 ### 🚀 Languages and Tools:
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
@@ -41,8 +39,14 @@
 ---
 
 ### 📫 Let’s connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhinav9984)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:abhinavpathak9984@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinav9984" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>  
+  <a href="mailto:abhinavpathak9984@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" alt="Email"/>
+  </a>
+</p>
 
 ---
 
